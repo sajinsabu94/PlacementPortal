@@ -1,2 +1,2 @@
 # PlacementPortal
-A pplacement portal PHP project
+A placement portal PHP project
